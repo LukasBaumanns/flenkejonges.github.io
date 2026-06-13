@@ -7006,7 +7006,7 @@ _.d=0
 _.e=e
 _.f=!1},
 ary(){var s,r,q,p,o,n,m,l,k,j=null,i="Waffenrock (Wappen links), Hut (Feder links), Koppel, schwarze Hose, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt \n Polo wird mitgenommen und nach Einmarsch angezogen",h="20:30",g="Festzelt",f="Waffenrock (Wappen links), Hut (Feder links), Koppel, schwarze Hose, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt, Waffe",e="Paradeplatz",d="Polo, schwarze Schuhe, schwarze Hose",c="Waffenrock (Wappen links), Hut (Feder links), Koppel, wei\xdfe Hose, wei\xdfe Handschuhe, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt, Waffe",b="Mittagessen",a=t.uu,a0=t.N
-a0=new A.BC(A.av(["Mittwoch 11.06.",A.c([new A.bq("16:30","Maien abholen","Jahnplatz","Egal")],a),"Donnerstag 12.06.",A.c([new A.bq("12:00","Uniformen abholen","Hintzen","So wie ihr wollt"),new A.bq("17:30","Maien setzen (Tim \u2794 Markus)","Julian","Polo")],a),"Freitag 13.06.",A.c([new A.bq("17:00","Einstimmen mit Taxi-Teller","Taverne",i),new A.bq("18:00","Antreten Platzkonzert","Hubertusplatz",i),new A.bq(h,"Mallorcaparty",g,i)],a),"Samstag 14.06.",A.c([new A.bq("11:00","K\xf6nigsessen","Markus' Eltern",f),new A.bq("16:00","Antreten zur Vorparade","Bruchstra\xdfe",f),new A.bq("17:30","Vorparade",e,f),new A.bq(h,"Ball der Zugk\xf6nige",g,d)],a),"Sonntag 15.06.",A.c([new A.bq("08:20","Antreten zur Totenehrung","Bruderhaus",c),new A.bq("09:15","Antreten zur Wachparade","Friedhof",c),new A.bq("09:45","Wachparade",e,c),new A.bq("13:00",b,"Hoster",c),new A.bq("15:00","Antreten zur K\xf6nigsgalaparade",g,c),new A.bq(h,"K\xf6nigsgalaball",g,d)],a),"Montag 16.06.",A.c([new A.bq("10:00","Fr\xfchshoppen",g,c),new A.bq("11:00","K\xf6nigsschie\xdfen",g,c),new A.bq("14:00",b,"Hoster",c),new A.bq("16:45","K\xf6nigsparade",g,c),new A.bq(h,"K\xf6nigs- und Sch\xfctzenball",g,d)],a),"Dienstag 17.06.",A.c([new A.bq("15:00","Maien abkr\xe4nzen","Tim","Bequem"),new A.bq("17:00","Abschlussessen","Lucas","Bequem")],a)],a0,t.xd),A.v(a0,t.uY),j)
+a0=new A.BC(A.av(["Mittwoch 17.06.",A.c([new A.bq("16:30","Maien abholen","Jahnplatz","Wie ihr wollt")],a),"Donnerstag 18.06.",A.c([new A.bq("12:00","Uniformen abholen","Hintzen","So wie ihr wollt"),new A.bq("17:00","Maien setzen (Henrod \u2794 Tim \u2794 Julian)","Julians Eltern","Polo")],a),"Freitag 19.06.",A.c([new A.bq("16:30","Einstimmen mit Taxi-Teller","Taverne",i),new A.bq("18:00","Antreten Platzkonzert","Hubertusplatz",i),new A.bq(h,"Schiefbahn feiert K\xf6lle",g,i)],a),"Samstag 20.06.",A.c([new A.bq("11:00","K\xf6nigsessen","Julian Wohnung",f),new A.bq("16:00","Antreten zur Vorparade","Robert-Koch-Str.",f),new A.bq("17:30","Vorparade",e,f),new A.bq("19:30","Ball der Zugk\xf6nige",g,d)],a),"Sonntag 21.06.",A.c([new A.bq("08:20","Antreten zur Totenehrung","Bruderhaus",c),new A.bq("09:15","Antreten zur Wachparade","Friedhof",c),new A.bq("09:30","Wachparade",e,c),new A.bq("13:00",b,"Hoster",c),new A.bq("15:00","Antreten zur K\xf6nigsgalaparade",g,c),new A.bq(h,"K\xf6nigsgalaball",g,d)],a),"Montag 22.06.",A.c([new A.bq("10:00","Fr\xfchshoppen",g,c),new A.bq("11:00","K\xf6nigsschie\xdfen",g,c),new A.bq("14:00",b,"Hoster",c),new A.bq("16:45","K\xf6nigsparade",g,c),new A.bq(h,"K\xf6nigs- und Sch\xfctzenball",g,d)],a),"Dienstag 23.06.",A.c([new A.bq("15:30","Maien abkr\xe4nzen","Tim","Bequem"),new A.bq("17:00","Abschlussessen","tbd","Bequem")],a)],a0,t.xd),A.v(a0,t.uY),j)
 a0.Pk()
 if($.aa==null){a=A.c([],t.kf)
 s=$.a1
@@ -13646,8 +13646,7 @@ m.toString
 k.toString
 j=Math.max(m,k)
 l.toString
-a=new A.aG(j,Math.max(l,p))
-p=a
+p=new A.aG(j,Math.max(l,p))
 break $label0$0}p=d}return p},
 alP(a,b,c,d,e,f,g,h,i){var s,r=null,q=A.aB(),p=J.nn(new Array(4),t.dY)
 for(s=0;s<4;++s)p[s]=new A.uX(r,B.aM,B.a4,B.am.j(0,B.am)?new A.iv(1):B.am,r,r,r,r,B.bv,r)
@@ -65853,3 +65852,4 @@ return}var s=document.scripts
 function onLoad(b){for(var q=0;q<s.length;++q){s[q].removeEventListener("load",onLoad,false)}a(b.target)}for(var r=0;r<s.length;++r){s[r].addEventListener("load",onLoad,false)}})(function(a){v.currentScript=a
 var s=A.a64
 if(typeof dartMainRunner==="function"){dartMainRunner(s,[])}else{s([])}})})()
+//# sourceMappingURL=main.dart.js.map

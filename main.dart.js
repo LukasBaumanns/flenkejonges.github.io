@@ -7005,10 +7005,10 @@ _.c=d
 _.d=0
 _.e=e
 _.f=!1},
-ary(){var s,r,q,p,o,n,m,l,k,j=null,i="Waffenrock (Wappen links), Hut (Feder links), Koppel, schwarze Hose, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt \n Polo wird mitgenommen und nach Einmarsch angezogen",h="20:30",g="Festzelt",f="Waffenrock (Wappen links), Hut (Feder links), Koppel, schwarze Hose, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt, Waffe",e="Paradeplatz",d="Polo, schwarze Schuhe, schwarze Hose",c="Waffenrock (Wappen links), Hut (Feder links), Koppel, wei\xdfe Hose, wei\xdfe Handschuhe, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt, Waffe",b="Mittagessen",a=t.uu,a0=t.N
-a0=new A.BC(A.av(["Mittwoch 17.06.",A.c([new A.bq("16:30","Maien abholen","Jahnplatz","Wie ihr wollt")],a),"Donnerstag 18.06.",A.c([new A.bq("12:00","Uniformen abholen","Hintzen","So wie ihr wollt"),new A.bq("17:00","Maien setzen (Henrod \u2794 Tim \u2794 Julian)","Julians Eltern","Polo")],a),"Freitag 19.06.",A.c([new A.bq("16:30","Einstimmen mit Taxi-Teller","Taverne",i),new A.bq("18:00","Antreten Platzkonzert","Hubertusplatz",i),new A.bq(h,"Schiefbahn feiert K\xf6lle",g,i)],a),"Samstag 20.06.",A.c([new A.bq("11:00","K\xf6nigsessen","Julian Wohnung",f),new A.bq("16:00","Antreten zur Vorparade","Robert-Koch-Str.",f),new A.bq("17:30","Vorparade",e,f),new A.bq("19:30","Ball der Zugk\xf6nige",g,d)],a),"Sonntag 21.06.",A.c([new A.bq("08:20","Antreten zur Totenehrung","Bruderhaus",c),new A.bq("09:15","Antreten zur Wachparade","Friedhof",c),new A.bq("09:30","Wachparade",e,c),new A.bq("13:00",b,"Hoster",c),new A.bq("15:00","Antreten zur K\xf6nigsgalaparade",g,c),new A.bq(h,"K\xf6nigsgalaball",g,d)],a),"Montag 22.06.",A.c([new A.bq("10:00","Fr\xfchshoppen",g,c),new A.bq("11:00","K\xf6nigsschie\xdfen",g,c),new A.bq("14:00",b,"Hoster",c),new A.bq("16:45","K\xf6nigsparade",g,c),new A.bq(h,"K\xf6nigs- und Sch\xfctzenball",g,d)],a),"Dienstag 23.06.",A.c([new A.bq("15:30","Maien abkr\xe4nzen","Tim","Bequem"),new A.bq("17:00","Abschlussessen","tbd","Bequem")],a)],a0,t.xd),A.v(a0,t.uY),j)
-a0.Pk()
-if($.aa==null){a=A.c([],t.kf)
+ary(){var s,r,q,p,o,n,m,l,k,j=null,i="Waffenrock (Wappen links), Hut (Feder links), Koppel, schwarze Hose, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt \n Polo wird mitgenommen und nach Einmarsch angezogen",h="Festzelt",g="Waffenrock (Wappen links), Hut (Feder links), Koppel, schwarze Hose, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt, Waffe",f="Paradeplatz",e="Polo, schwarze Schuhe, schwarze Hose",d="Waffenrock (Wappen links), Hut (Feder links), Koppel, wei\xdfe Hose, wei\xdfe Handschuhe, schwarze Schuhe, schwarze Socken, wei\xdfes T-Shirt, Waffe",c="Mittagessen",b=t.uu,a=t.N
+a=new A.BC(A.av(["Mittwoch 17.06.",A.c([new A.bq("16:30","Maien abholen","Jahnplatz","Wie ihr wollt")],b),"Donnerstag 18.06.",A.c([new A.bq("12:00","Uniformen abholen","Hintzen","So wie ihr wollt"),new A.bq("18:30","Maien setzen (Henrod \u2794 Tim \u2794 Julian)","Julians Eltern","Polo")],b),"Freitag 19.06.",A.c([new A.bq("16:30","Einstimmen mit Taxi-Teller","Taverne",i),new A.bq("18:00","Antreten Platzkonzert","Hubertusplatz",i),new A.bq("20:15","Schiefbahn feiert K\xf6lle",h,i)],b),"Samstag 20.06.",A.c([new A.bq("11:00","K\xf6nigsessen","Julian Wohnung",g),new A.bq("16:00","Antreten zur Vorparade","Robert-Koch-Str.",g),new A.bq("17:30","Vorparade",f,g),new A.bq("19:30","Ball der Zugk\xf6nige",h,e)],b),"Sonntag 21.06.",A.c([new A.bq("08:20","Antreten zur Totenehrung","Bruderhaus",d),new A.bq("09:15","Antreten zur Wachparade","Friedhof",d),new A.bq("09:30","Wachparade",f,d),new A.bq("13:00",c,"Hoster",d),new A.bq("15:00","Antreten zur K\xf6nigsgalaparade",h,d),new A.bq("20:30","K\xf6nigsgalaball",h,e)],b),"Montag 22.06.",A.c([new A.bq("10:00","Fr\xfchshoppen",h,d),new A.bq("11:00","K\xf6nigsschie\xdfen",h,d),new A.bq("14:00",c,"Hoster",d),new A.bq("16:45","K\xf6nigsparade",h,d),new A.bq("20:30","K\xf6nigs- und Sch\xfctzenball",h,e)],b),"Dienstag 23.06.",A.c([new A.bq("15:30","Maien abkr\xe4nzen","Tim","Bequem"),new A.bq("17:00","Abschlussessen","tbd","Bequem")],b)],a,t.xd),A.v(a,t.uY),j)
+a.Pk()
+if($.aa==null){b=A.c([],t.kf)
 s=$.a1
 r=A.c([],t.kn)
 q=$.aD()
@@ -7016,26 +7016,26 @@ p=A.c([],t.kC)
 o=A.b0(7,j,!1,t.tI)
 n=t.S
 m=t.u3
-n=new A.EA(j,j,j,$,a,j,!0,new A.bl(new A.a4(s,t.U),t.Q),!1,j,!1,$,j,$,$,$,A.v(t.K,t.gu),!1,0,!1,$,new A.bu(r,t.kq),0,j,$,$,new A.Jt(A.aq(t.M)),$,$,$,new A.ew(j,q),$,j,j,p,j,A.aqm(),new A.AH(A.aql(),o,t.f7),!1,0,A.v(n,t.b1),A.cy(n),A.c([],m),A.c([],m),j,!1,B.bZ,!0,!1,j,B.w,B.w,j,0,j,!1,j,j,0,A.jh(j,t.cL),new A.VV(A.v(n,t.p6),A.v(t.yd,t.rY)),new A.PX(A.v(n,t.eK)),new A.VY(),A.v(n,t.ln),$,!1,B.yw)
+n=new A.EA(j,j,j,$,b,j,!0,new A.bl(new A.a4(s,t.U),t.Q),!1,j,!1,$,j,$,$,$,A.v(t.K,t.gu),!1,0,!1,$,new A.bu(r,t.kq),0,j,$,$,new A.Jt(A.aq(t.M)),$,$,$,new A.ew(j,q),$,j,j,p,j,A.aqm(),new A.AH(A.aql(),o,t.f7),!1,0,A.v(n,t.b1),A.cy(n),A.c([],m),A.c([],m),j,!1,B.bZ,!0,!1,j,B.w,B.w,j,0,j,!1,j,j,0,A.jh(j,t.cL),new A.VV(A.v(n,t.p6),A.v(t.yd,t.rY)),new A.PX(A.v(n,t.eK)),new A.VY(),A.v(n,t.ln),$,!1,B.yw)
 n.ds()
-n.OY()}a=$.aa
-a.toString
+n.OY()}b=$.aa
+b.toString
 s=$.ak()
 r=t.j8
 if(r.a(s.gbt().b.i(0,0))==null)A.ag(A.as('The app requested a view, but the platform did not provide one.\nThis is likely because the app called `runApp` to render its root widget, which expects the platform to provide a default view to render into (the "implicit" view).\nHowever, the platform likely has multi-view mode enabled, which does not create this default "implicit" view.\nTry using `runWidget` instead of `runApp` to start your app.\n`runWidget` allows you to provide a `View` widget, without requiring a default view.\nSee: https://flutter.dev/to/web-multiview-runwidget'))
 q=r.a(s.gbt().b.i(0,0))
 q.toString
-p=a.grK()
-l=a.ay$
+p=b.grK()
+l=b.ay$
 if(l===$){s=r.a(s.gbt().b.i(0,0))
 s.toString
 k=new A.IC(B.a_,s,j,A.aB())
 k.aV()
 k.Pn(j,j,s)
-a.ay$!==$&&A.a6()
-a.ay$=k
-l=k}a.Lh(new A.vg(q,a0,p,l,j))
-a.Ac()},
+b.ay$!==$&&A.a6()
+b.ay$=k
+l=k}b.Lh(new A.vg(q,a,p,l,j))
+b.Ac()},
 bq:function bq(a,b,c,d){var _=this
 _.a=a
 _.b=b
@@ -13646,7 +13646,8 @@ m.toString
 k.toString
 j=Math.max(m,k)
 l.toString
-p=new A.aG(j,Math.max(l,p))
+a=new A.aG(j,Math.max(l,p))
+p=a
 break $label0$0}p=d}return p},
 alP(a,b,c,d,e,f,g,h,i){var s,r=null,q=A.aB(),p=J.nn(new Array(4),t.dY)
 for(s=0;s<4;++s)p[s]=new A.uX(r,B.aM,B.a4,B.am.j(0,B.am)?new A.iv(1):B.am,r,r,r,r,B.bv,r)
@@ -65852,4 +65853,3 @@ return}var s=document.scripts
 function onLoad(b){for(var q=0;q<s.length;++q){s[q].removeEventListener("load",onLoad,false)}a(b.target)}for(var r=0;r<s.length;++r){s[r].addEventListener("load",onLoad,false)}})(function(a){v.currentScript=a
 var s=A.a64
 if(typeof dartMainRunner==="function"){dartMainRunner(s,[])}else{s([])}})})()
-//# sourceMappingURL=main.dart.js.map
